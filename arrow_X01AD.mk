@@ -41,5 +41,3 @@ PRODUCT_GMS_CLIENTID_BASE := android-asus
 TARGET_BOOT_ANIMATION_RES := 1080
 DEVICE_MAINTAINER := Nishant
 
-
-# ArrowOS additions
